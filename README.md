@@ -1,53 +1,52 @@
 # HTML & CSS 🌐
 
-A collection of my HTML and CSS exercises and learning projects.
+A collection of my HTML and CSS learning projects and practical exercises.
 
-This repository documents my progress while learning the fundamentals of front-end web development and building structured, responsive and user-friendly web pages.
+This repository documents my progress in learning the fundamentals of front-end web development and building structured, responsive and user-friendly web pages.
 
 ## 📚 What I'm Learning
 
-- Introduction to HTML and CSS
-- HTML fundamentals and page structure
-- CSS fundamentals
+- HTML and CSS fundamentals
+- Web page structure and semantic HTML
 - CSS Box Model and Typography
-- CSS Layout and Flexbox
+- CSS Layout with Flexbox
 - Responsive Web Design
-- Working with Forms
-- Practical HTML and CSS exercises
+- Working with HTML Forms
+- Practical front-end development
 
 ## 📁 Repository Structure
 
-The repository is organized into learning topics and practical exercises:
+The repository is organized by topic, following my learning progress from HTML and CSS fundamentals to more practical front-end development concepts.
 
 ### 01 - Introduction to HTML and CSS
-Introduction to the fundamentals of HTML and CSS.
 
-### 02 - Introduction to HTML and CSS - Exercises
-Practical exercises based on the introductory HTML and CSS concepts.
+Learning the fundamentals of HTML and CSS, including basic web page structure, HTML elements and CSS styling.
 
-### 03 - CSS Box Model and Typography
-Working with the CSS Box Model, spacing, sizing, text and typography.
+👉 [Open folder](./01-Introduction-to-HTML-and-CSS)
 
-### 04 - CSS Box Model and Typography - Exercises
-Practical exercises focused on the Box Model and Typography.
+### 02 - CSS Box Model and Typography
 
-### 05 - CSS Layout - Flexbox
-Learning how to create and control layouts using CSS Flexbox.
+Learning how the CSS Box Model works and how to control spacing, sizing, text, fonts and typography.
 
-### 06 - CSS Layout - Flexbox - Exercises
-Practical exercises for building layouts with Flexbox.
+👉 [Open folder](./02-CSS-Box-Model-and-Typography)
 
-### 07 - Responsive Web Design
-Learning the fundamentals of creating responsive web pages for different screen sizes.
+### 03 - CSS Layout - Flexbox
 
-### 08 - Responsive Web Design - Exercises
-Practical exercises focused on responsive layouts and design.
+Learning how to create and control flexible page layouts using CSS Flexbox.
 
-### 09 - Working with Forms
-Learning how to create and style HTML forms and work with different form elements.
+👉 [Open folder](./03-CSS-Layout-Flexbox)
 
-### 10 - Working with Forms - Exercises
-Practical exercises for creating and styling HTML forms.
+### 04 - Responsive Web Design
+
+Learning how to create responsive web pages that adapt to different screen sizes and devices.
+
+👉 [Open folder](./04-Resposive-Web-Design)
+
+### 05 - Working with Forms
+
+Learning how to create, structure and style HTML forms and work with different form elements.
+
+👉 [Open folder](./05-Working-with-Forms)
 
 ## 🎯 Goal
 
