@@ -1,0 +1,100 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Form Elements</title>
+    <link rel="stylesheet" href="form-elements.css">
+</head>
+<body>
+
+    <h1>Form Elements</h1>
+
+    <form action="#" method="get">
+        
+        <p>
+            <label for="username">Username</label>
+            <input type="text" name="username" id="username" required placeholder="David Core">
+        </p>
+        <p>
+            <label for="password">Password</label>
+            <input type="password" name="password" id="password">
+        </p>
+        <p>
+            <fieldset>
+                <legend>Happy or Sad?</legend>
+                
+                <input type="radio" name="happy-or-sad" id="radio-happy">
+                <label for="radio-happy">Happy</label>
+                
+                <input type="radio" name="happy-or-sad" id="radio-neutral">
+                <label for="radio-neutral">Neutral</label>
+
+                <input type="radio" name="happy-or-sad" id="radio-sad">
+                <label for="radio-sad">Sad</label>
+            </fieldset>
+        </p>
+
+        <p>
+            <fieldset>
+                <legend>Happy or Sad?</legend>
+                
+                <input type="checkbox" name="happy" id="checkbox-happy">
+                <label for="checkbox-happy">Happy</label>
+                
+                <input type="checkbox" name="neutral" id="neutral">
+                <label for="checkbox-neutral">Neutral</label>
+
+                <input type="checkbox" name="sad" id="sad">
+                <label for="checkbox-sad">Sad</label>
+            </fieldset>
+        </p>
+        <p>
+            <label for="color">Favorite Color</label>
+            <input type="color" name="color" id="color">
+        </p>
+        <p>
+            <label for="email">Email</label>
+            <input type="email" name="email" id="email" required>
+        </p>
+        <p>
+            <label for="file">File</label>
+            <input type="file" name="file" id="file" required>
+        </p>
+        <p>
+            <label for="number">Number</label>
+            <input type="number" name="number" id="number" value="5" required>
+        </p>
+        <p>
+            <label for="country">Country</label>
+            <select name="country" id="country">
+                <option value="bulgaria">Bulgaria</option>
+                <option value="uk">United Kingdom</option>
+            </select>
+        </p>
+        <p>
+            <label for="message">Message</label>
+            <textarea name="message" id="message"></textarea>
+        </p>
+
+        <fieldset>
+            <legend>Audio settings:</legend>
+
+            <p>
+                <input type="range" id="volume" name="volume" min="0" max="11" />
+                <label for="volume">Volume</label>
+            </p>
+            <p>
+                <input type="range" id="cowbell" name="cowbell" min="0" max="100" value="90" step="10" />
+                <label for="cowbell">Cowbell</label>
+            </p>
+        </fieldset>
+
+        <button>Login</button>
+        
+    </form>
+
+
+    
+</body>
+</html>

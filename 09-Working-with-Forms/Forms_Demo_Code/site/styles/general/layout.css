@@ -1,0 +1,20 @@
+body {
+    background: #eee;
+}
+
+.site {
+    max-width: 900px;
+    margin: 0 auto;
+
+    padding: 2em;
+    background: #fff;
+    box-shadow: 0 0 1em 0 rgb(0, 0, 0, 0.1);
+    border-radius: 0.2em;
+}
+
+@media (width > 960px) {
+    .site {
+        margin-block: 2em;
+    }
+}
+
