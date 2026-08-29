@@ -1,0 +1,75 @@
+/* p {
+    background-color: red;
+    width: 300px;
+    height: 100px;
+    border: 2px dashed blue;
+    margin: 50px;
+    padding: 12px 24px;
+} */
+
+/* span {
+    background-color: orange;
+    width: 300px;
+    height: 100px;
+    border: 2px dashed blue;
+      margin: 20px;
+    padding: 5px 10px;
+} */
+
+/* div {
+    background-color: greenyellow;
+    display: inline-block;
+    width: 120px;
+    border: 2px dashed blue;
+    margin: 20px;
+    padding: 5px 10px;
+} */
+
+
+/* .divider{
+    margin-top: 60px;
+} */
+
+/* div{
+    background-color: greenyellow;
+}
+
+.block{
+    display: block;
+    margin-bottom: 12px;
+}
+
+.inline{
+    display: inline;
+    padding: 4px;
+    margin-right: 12px;
+    margin-bottom: 12px;
+}
+
+.inlineBlock{
+    display: inline-block;
+    padding: 4px;
+    margin-right: 12px;
+    margin-bottom: 12px;
+
+    margin: 0 12px 12px 0;
+} */
+
+.firstBox,
+.secondBox {
+    /* display: inline-block; */
+    padding: 12px;
+    border: 5px solid red;
+    background-color: orange;
+    font-size: 20px;
+}
+
+.firstBox {
+    width: 300px;
+}
+
+.secondBox {
+    box-sizing: border-box;
+    width: 300px;
+}
+
