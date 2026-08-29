@@ -1,47 +1,39 @@
 # HTML & CSS 🌐
 
-A collection of my HTML and CSS exercises and learning projects.
+A collection of my HTML and CSS learning projects and practical exercises.
 
-This repository documents my progress while learning the fundamentals of front-end web development and practicing HTML and CSS.
+This repository documents my progress in front-end development — from HTML and CSS fundamentals to layouts, responsive design and working with forms.
 
-## 📚 What I'm Learning
+## 📚 Learning Path
 
-- HTML fundamentals
-- CSS fundamentals
-- CSS Box Model and Typography
-- CSS Layout with Flexbox
-- Responsive Web Design
-- Working with HTML Forms
-- Practical front-end development
+### [01. Introduction to HTML and CSS](./01-Introduction-to-HTML-and-CSS)
 
-## 📁 Repository Structure
+Introduction to the fundamentals of HTML and CSS, web page structure and basic styling.
 
-The projects and exercises are organized by topic as I continue learning HTML and CSS.
-
-### [01 - Introduction to HTML and CSS](./01-Introduction-to-HTML-and-CSS)
-
-Learning the fundamentals of HTML and CSS, including web page structure, HTML elements and basic CSS styling.
-
-### [02 - CSS Box Model and Typography](./02-CSS-Box-Model-and-Typography)
+### [02. CSS Box Model and Typography](./02-CSS-Box-Model-and-Typography)
 
 Learning how the CSS Box Model works and how to control spacing, sizing, text, fonts and typography.
 
-### [03 - CSS Layout - Flexbox](./03-CSS-Layout-Flexbox)
+### [03. CSS Layout - Flexbox](./03-CSS-Layout-Flexbox)
 
 Learning how to create and control flexible page layouts using CSS Flexbox.
 
-### [04 - Responsive Web Design](./04-Responsive-Web-Design)
+### [04. Responsive Web Design](./04-Responsive-Web-Design)
 
 Learning how to create responsive web pages that adapt to different screen sizes and devices.
 
-### [05 - Working with Forms](./05-Working-with-Forms)
+### [05. Working with Forms](./05-Working-with-Forms)
 
 Learning how to create, structure and style HTML forms and work with different form elements.
 
 ## 🎯 Goal
 
-My goal is to build a strong foundation in HTML and CSS and use these skills to create clean, structured and responsive web pages.
+My goal is to build a strong foundation in HTML and CSS and continue developing practical front-end skills.
 
-I plan to combine HTML and CSS with JavaScript to build more interactive and complete front-end projects.
+I plan to combine HTML and CSS with JavaScript to create more interactive, responsive and complete web applications.
 
-⭐ This repository is part of my web development learning journey.
+## 📈 Progress
+
+This repository is continuously updated as I learn new HTML and CSS concepts, practice through exercises and build practical web pages.
+
+⭐ Thanks for checking out my repository!
